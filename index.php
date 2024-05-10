@@ -32,7 +32,11 @@
                             <a href="exercicio.php?dir=basico&file=css">Integração CSS</a>
                         </li>
                         <li>
-                            <a href="#">Exercício D</a>
+                            <a href="exercicio.php?dir=basico&file=comentarios">Comentários PHP</a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=desafio">Desafio do módulo</a>
                         </li>
                     </ul>
                 </div>

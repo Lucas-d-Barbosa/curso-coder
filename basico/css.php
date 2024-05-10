@@ -14,7 +14,7 @@ echo '</small>';
 <?="<div center azul>Outra forma de me 'expressar'!</div>"?>
 
 <br>
-<div><button center dobro><?='Legal'?></button></div>
+<div center><button  dobro><?='Legal'?></button></div>
 
 <style>
     button{
@@ -32,6 +32,6 @@ echo '</small>';
         color: #4286f4;
     }
     [dobro]{
-        font-size: 2rem;
+        font-size: <?=10 - 8?>rem;
     }
 </style>
