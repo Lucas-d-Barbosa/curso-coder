@@ -26,10 +26,10 @@
                             <a href="exercicio.php?dir=basico&file=ola">Olá, PHP</a>
                         </li>
                         <li>
-                            <a href="">Exercício B</a>
+                            <a href="exercicio.php?dir=basico&file=html">Integração HTML</a>
                         </li>
                         <li>
-                            <a href="#">Exercício C</a>
+                            <a href="exercicio.php?dir=basico&file=css">Integração CSS</a>
                         </li>
                         <li>
                             <a href="#">Exercício D</a>
