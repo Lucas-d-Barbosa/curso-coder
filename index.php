@@ -47,7 +47,7 @@
                         <li>
                             <a href="exercicio.php?dir=tipos&file=inteiro">Tipo Inteiro</a>
                         </li>
-                        
+
                         <li>
                             <a href="exercicio.php?dir=tipos&file=float">Tipo Float</a>
                         </li>
@@ -62,18 +62,25 @@
                         </li>
 
                         <li>
-                        <a href="exercicio.php?dir=tipos&file=string">Tipo String</a>
+                            <a href="exercicio.php?dir=tipos&file=string">Tipo String</a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=boolean">Tipo Boolean</a>
                         </li>
                     </ul>
                 </div>
 
-                
+
             </nav>
         </div>
     </main>
 
     <footer class="rodape">
-         <?= "COD3R & ALUNOS &copy; " . date("d/m/Y");?>
+        <?= "COD3R & ALUNOS &copy; " . date("d/m/Y"); ?>
     </footer>
 </body>
 
