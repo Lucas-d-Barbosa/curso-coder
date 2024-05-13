@@ -76,6 +76,7 @@
                         </li>
                     </ul>
                 </div>
+
                 <div class="modulo azul">
                     <h3>Módulo 03 - Variáveis</h3>
                     <ul>
@@ -101,10 +102,11 @@
                         <li>
                             <a href="exercicio.php?dir=variaveis&file=valor_x_referencia">Valor x Referência</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a>
+                        </li>
                     </ul>
                 </div>
-
-
             </nav>
         </div>
     </main>
