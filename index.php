@@ -28,6 +28,9 @@
                         <li>
                             <a href="exercicio.php?dir=controle&file=relacionais">Op. Relacionais</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a>
+                        </li>
                         
                     </ul>
                 </div>
