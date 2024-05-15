@@ -31,6 +31,9 @@
                         <li>
                             <a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=logicos">Op. Lógicos</a>
+                        </li>
                         
                     </ul>
                 </div>
