@@ -25,6 +25,9 @@
                         <li>
                             <a href="exercicio.php?dir=controle&file=if_else">If Else</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=relacionais">Op. Relacionais</a>
+                        </li>
                         
                     </ul>
                 </div>
