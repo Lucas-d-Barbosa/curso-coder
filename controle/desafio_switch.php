@@ -34,7 +34,7 @@
 
 
 <?php
-if (isset($_POST['param'])) {
+if (isset($_POST['param'])  && is_numeric($_POST['param'])) {
     $valorConversao = $_POST['param'];
     $conversao = $_POST['conversao'];
     $valorConvertido;
@@ -60,18 +60,20 @@ if (isset($_POST['param'])) {
             $valorConvertido = number_format($valorConvertido, 3, ',', '.');
             $str = "{$valorConversao} km é igual a $valorConvertido metros";
             break;
-            
         case 'celsius-fah':
             $valorConvertido = ($valorConversao * 1.8 + 32);
             $valorConvertido = number_format($valorConvertido, 3, ',', '.');
             $str = "{$valorConversao} Celsiu é igual a $valorConvertido Fahrenheit";
             break;
         case 'fah-celsius':
-            $valorConvertido = ($valorConversao - 32) / (9/5);
+            $valorConvertido = ($valorConversao - 32) / (9 / 5);
             $valorConvertido = number_format($valorConvertido, 3, ',', '.');
             $str = "{$valorConversao} Fahrenheit é igual a $valorConvertido Celsiu";
             break;
     }
+    echo $str;
+} else {
+    $str = 'Valores inválidos!';
     echo $str;
 }
 
