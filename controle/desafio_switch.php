@@ -15,16 +15,21 @@
         <option value="km-metro">
             KM/Metro
         </option>
+        <option value="celsius-fah">
+            Celsius/Fahrenheit
+        </option>
+        <option value="fah-celsius">
+            Fahrenheit/Celsius
+        </option>
     </select>
 
     <button>Enviar</button>
 
 </form>
 <style>
-    form > *{
+    form>* {
         font-size: 1.8rem;
     }
-
 </style>
 
 
@@ -54,6 +59,17 @@ if (isset($_POST['param'])) {
             $valorConvertido = $valorConversao *  1000;
             $valorConvertido = number_format($valorConvertido, 3, ',', '.');
             $str = "{$valorConversao} km é igual a $valorConvertido metros";
+            break;
+            
+        case 'celsius-fah':
+            $valorConvertido = ($valorConversao * 1.8 + 32);
+            $valorConvertido = number_format($valorConvertido, 3, ',', '.');
+            $str = "{$valorConversao} Celsiu é igual a $valorConvertido Fahrenheit";
+            break;
+        case 'fah-celsius':
+            $valorConvertido = ($valorConversao - 32) / (9/5);
+            $valorConvertido = number_format($valorConvertido, 3, ',', '.');
+            $str = "{$valorConversao} Fahrenheit é igual a $valorConvertido Celsiu";
             break;
     }
     echo $str;
