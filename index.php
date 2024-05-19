@@ -31,6 +31,9 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=desafio_index">Desafio de Index</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_meses">Desafio de Meses</a>
+                        </li>
                      
                     </ul>
                 </div>
