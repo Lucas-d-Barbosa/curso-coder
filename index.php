@@ -28,6 +28,9 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=mapa">Mapa PHP</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_index">Desafio de Index</a>
+                        </li>
                      
                     </ul>
                 </div>
