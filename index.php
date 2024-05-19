@@ -25,6 +25,9 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=basico">Array</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">Mapa PHP</a>
+                        </li>
                      
                     </ul>
                 </div>
