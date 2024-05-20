@@ -44,6 +44,10 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=multi">Array Multidimensional</a>
                         </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=array&file=arrays_const">Array Multidimensional</a>
+                        </li>
                                           
                     </ul>
                 </div>
