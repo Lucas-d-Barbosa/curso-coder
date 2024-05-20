@@ -37,6 +37,10 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=operacoes_array">Operações com Arrays</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a>
+                        </li>
+                     
                      
                     </ul>
                 </div>
