@@ -41,7 +41,10 @@
                             <a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a>
                         </li>
                      
-                     
+                        <li>
+                            <a href="exercicio.php?dir=array&file=multi">Array Multidimensional</a>
+                        </li>
+                                          
                     </ul>
                 </div>
                 <div class="modulo roxo">
