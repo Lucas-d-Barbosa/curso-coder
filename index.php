@@ -19,6 +19,27 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+                <div class="modulo laranja">
+                    <h3>Módulo 05 - Array</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">Array</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">Mapa PHP</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_index">Desafio de Index</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_meses">Desafio de Meses</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=operacoes_array">Operações com Arrays</a>
+                        </li>
+                     
+                    </ul>
+                </div>
                 <div class="modulo roxo">
                     <h3>Módulo 04 - Controle</h3>
                     <ul>
@@ -33,6 +54,18 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=controle&file=logicos">Op. Lógicos</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_op_logicos">Desafio Op. Lógicos</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=operador_ternario">Operador Ternário</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=switch">Switch Case</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch Case</a>
                         </li>
                         
                     </ul>
