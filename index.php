@@ -56,6 +56,10 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=post">Usando $_POST</a>
                         </li>
+                        
+                        <li>
+                            <a href="exercicio.php?dir=array&file=comparacao">Comparação de Arrays</a>
+                        </li>
                                           
                     </ul>
                 </div>
