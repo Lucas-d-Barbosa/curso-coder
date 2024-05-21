@@ -31,6 +31,10 @@
                         <li>
                             <a href="exercicio.php?dir=repeticoes&file=foreach">Foreach</a>
                         </li>
+                        
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=break_continue">Break & Continue</a>
+                        </li>
                        
                                           
                     </ul>
