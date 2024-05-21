@@ -52,6 +52,10 @@
                         <li>
                             <a href="exercicio.php?dir=array&file=get">Usando $_GET</a>
                         </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=array&file=post">Usando $_POST</a>
+                        </li>
                                           
                     </ul>
                 </div>
