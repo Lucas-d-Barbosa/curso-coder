@@ -29,6 +29,10 @@
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=args_retorno">Argumentos e Retornos</a>
                         </li>
+                       
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=desafio_palindromo">Desafio Palindromo</a>
+                        </li>
                     
                                           
                     </ul>
