@@ -26,6 +26,10 @@
                             <a href="exercicio.php?dir=funcoes&file=funcoes_escopo">Funções e Escopo</a>
                         </li>
                     
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=args_retorno">Argumentos e Retornos</a>
+                        </li>
+                    
                                           
                     </ul>
                 </div>
