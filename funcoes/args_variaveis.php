@@ -4,8 +4,8 @@
 function soma($a, $b){
     return $a + $b;
 }
-echo soma(14, 15, 6, 7, 8) . '<br>';
-echo soma(6, 5, 4) . '<br>';
+echo soma(14, 15) . '<br>';
+echo soma(6, 5) . '<br>';
 
 function somaCompleta(...$numeros){
     $soma = 0;
