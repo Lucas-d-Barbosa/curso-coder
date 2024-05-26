@@ -46,6 +46,10 @@
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=declarando_tipos">Declarando Tipos</a>
                         </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=funcao_anonima">Funções Anônimas</a>
+                        </li>
                     
                                           
                     </ul>
