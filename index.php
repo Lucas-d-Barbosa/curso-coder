@@ -42,6 +42,11 @@
                             <a href="exercicio.php?dir=funcoes&file=args_padrao">Argumentos Padrão</a>
                         </li>
                     
+                       
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=declarando_tipos">Declarando Tipos</a>
+                        </li>
+                    
                                           
                     </ul>
                 </div>
