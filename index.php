@@ -50,6 +50,10 @@
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=funcao_anonima">Funções Anônimas</a>
                         </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=closure_callable">Closure & Callabe</a>
+                        </li>
                     
                                           
                     </ul>
