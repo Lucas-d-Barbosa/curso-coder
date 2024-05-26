@@ -54,6 +54,10 @@
                         <li>
                             <a href="exercicio.php?dir=funcoes&file=closure_callable">Closure & Callabe</a>
                         </li>
+                        
+                        <li>
+                            <a href="exercicio.php?dir=funcoes&file=recursividade">Recursividade</a>
+                        </li>
                     
                                           
                     </ul>
