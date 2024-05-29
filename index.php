@@ -19,6 +19,21 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+                <div class="modulo azul-escuro">
+                    <h3>Módulo 08 - POO</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=classe">Primeira Classe</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=classe_data">Classe Data</a>
+                        </li>
+
+
+                      
+                                          
+                    </ul>
+                </div>
                 <div class="modulo vermelho-escuro">
                     <h3>Módulo 07 - Funções</h3>
                     <ul>
