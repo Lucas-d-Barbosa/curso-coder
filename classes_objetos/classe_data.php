@@ -19,10 +19,10 @@ class Data{
     }
 }
 
-$d1 = new Data();
-$d1->dia = 11;
-$d1->mes = 7;
-$d1->ano = 2024;
-echo $d1->apresentar() . '<br>';
+$aniversario = new Data();
+$aniversario->dia = 5;
+$aniversario->mes = 7;
+$aniversario->ano = 2002 ;
+echo $aniversario->apresentar() . '<br>';
 
 ?>
