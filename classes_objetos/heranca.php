@@ -16,7 +16,7 @@ class Pessoa{
     }
 
     public function apresentar(){
-        echo "{$this->nome},{$this->idade} anos<br>";
+        return "{$this->nome},{$this->idade} anos<br>";
     }
 }
 
@@ -37,14 +37,14 @@ class Usuario extends Pessoa{
 
     public function apresentar()
     {   
-        echo "@{$this->login}: ";        
-        parent::apresentar();
+        return "@{$this->login}: " . parent::apresentar();;        
+        
     }
 }
 
 $pessoa1 = new Pessoa("Lucas Barbosa", 21);
 $usuario = new Usuario("Hiago Barbosa", 21, 'Calece');
-$usuario->apresentar();
+echo $usuario->apresentar();
 
 
 ?>
