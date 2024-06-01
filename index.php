@@ -25,6 +25,10 @@
                         <li>
                             <a href="exercicio.php?dir=includes&file=include">Includes</a>
                         </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=include_funcao">Include Função</a>
+                        </li>
                  
                                           
                     </ul>
