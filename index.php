@@ -41,6 +41,10 @@
                         <li>
                             <a href="exercicio.php?dir=includes&file=include_once">Include_once</a>
                         </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=desafio_include">Desafio Require/Include</a>
+                        </li>
                  
                                           
                     </ul>
