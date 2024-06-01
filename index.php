@@ -56,6 +56,10 @@
                             <a href="exercicio.php?dir=classes_objetos&file=desafio_7_erros">Desafio dos 7 erros</a>
                         </li>
 
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=final">Modificador Final</a>
+                        </li>
+
 
                       
                                           
