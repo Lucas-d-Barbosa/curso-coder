@@ -33,6 +33,10 @@
                         <li>
                             <a href="exercicio.php?dir=includes&file=include_require">Include & Require</a>
                         </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=includes&file=require_return">Require e Return</a>
+                        </li>
                  
                                           
                     </ul>
