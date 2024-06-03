@@ -1,6 +1,6 @@
 <nav class="modulos">
     <div class="modulo laranja-escuro">
-        <h3>Módulo 11 - Tratamento de Erros</h3>
+        <h3>Módulo 11 - Exceções</h3>
         <ul>
             <li>
                 <a href="exercicio.php?dir=namespace&file=basico">Exemplo Básico</a>
