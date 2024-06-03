@@ -1,5 +1,14 @@
 <nav class="modulos">
     <div class="modulo laranja-escuro">
+        <h3>Módulo 11 - Tratamento de Erros</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=namespace&file=basico">Exemplo Básico</a>
+            </li>
+
+        </ul>
+    </div>
+    <div class="modulo laranja-escuro">
         <h3>Módulo 10 - Namespace</h3>
         <ul>
             <li>
