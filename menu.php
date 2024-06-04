@@ -1,9 +1,13 @@
 <nav class="modulos">
-    <div class="modulo laranja-escuro">
+    <div class="modulo verde">
         <h3>Módulo 11 - Exceções</h3>
         <ul>
             <li>
-                <a href="exercicio.php?dir=namespace&file=basico">Exemplo Básico</a>
+                <a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try/Catch</a>
+            </li>
+
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">Erros Persnolizados</a>
             </li>
 
             <li>
