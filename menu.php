@@ -6,6 +6,10 @@
                 <a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try/Catch</a>
             </li>
 
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">Erros Persnolizados</a>
+            </li>
+
         </ul>
     </div>
     <div class="modulo laranja-escuro">
