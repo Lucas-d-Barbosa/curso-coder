@@ -6,6 +6,10 @@
                 <a href="exercicio.php?dir=sessao&file=basico_sessao">Básico de Sessão</a>
             </li>
 
+            <li>
+                <a href="exercicio.php?dir=sessao&file=gerenciando_sessao">Gerenciando Sessão</a>
+            </li>
+
         </ul>
     </div>
     <div class="modulo verde">
@@ -24,7 +28,7 @@
             </li>
 
             <li>
-                <a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">Errornpx create-react-app nome-do-seu-projeto Handler</a>
+                <a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">Error Handler</a>
             </li>
 
         </ul>
