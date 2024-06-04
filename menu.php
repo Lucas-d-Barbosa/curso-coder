@@ -1,4 +1,13 @@
 <nav class="modulos">
+    <div class="modulo vermelho">
+        <h3>Módulo 12 - Sessões</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=sessao&file=basico_sessao">Básico de Sessão</a>
+            </li>
+
+        </ul>
+    </div>
     <div class="modulo verde">
         <h3>Módulo 11 - Exceções</h3>
         <ul>
@@ -15,7 +24,7 @@
             </li>
 
             <li>
-                <a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">Error Handler</a>
+                <a href="exercicio.php?dir=tratamento_erro&file=gerenciador_erro">Errornpx create-react-app nome-do-seu-projeto Handler</a>
             </li>
 
         </ul>
