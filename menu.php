@@ -6,6 +6,10 @@
                 <a href="exercicio.php?dir=namespace&file=basico">Exemplo Básico</a>
             </li>
 
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv">Desafio IntDiv</a>
+            </li>
+
         </ul>
     </div>
     <div class="modulo laranja-escuro">
