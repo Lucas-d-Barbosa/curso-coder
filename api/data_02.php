@@ -37,6 +37,6 @@ echo ($amanha->getTimestamp() > $dataPassada->getTimestamp() ? 'Maior' : 'Menor'
 echo ($amanha > $dataFutura ? 'Maior' . '<br>' : 'Menor') . '<br>';
 echo ($outraData == $dataFutura ? 'Igual' . '<br>' : 'Diferente') . '<br>';
 $tz = new DateTimeZone('America/Sao_Paulo');
-$agora = new DateTime(null, $tz);
+$agora = new DateTime('', $tz);
 echo $agora->format('d/M/Y H:i:s');
 ?>
