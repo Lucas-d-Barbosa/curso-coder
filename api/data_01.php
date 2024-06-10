@@ -3,7 +3,7 @@
 <?php
 echo time()  . '<br>';
 echo date('D, d \d\e M \d\e Y H:i A') . '<br>';
-setlocale(LC_TIME, 'pt_BR', 'pt_BR.utf-8');
+setlocale(LC_TIME,"");
 echo strftime("%A, %d de %B de %Y", time()) . '<br>';
 $amanha = time() + 60 * 60 * 24;
 echo strftime("%A, %d de %B de %Y", $amanha) . '<br>';
