@@ -17,6 +17,14 @@
             <li>
                 <a href="exercicio.php?dir=api&file=upload">Upload</a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=download">Download</a>
+            </li>
+
+            <li>
+                <a href="exercicio.php?dir=api&file=imagens">Imgaens</a>
+            </li>
+        </ul>
 
         </ul>
     </div>
